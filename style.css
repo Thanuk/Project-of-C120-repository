@@ -11,6 +11,17 @@
     bottom: 0;
     width: 100%;
     text-align: center;
-    line-height: 5;
     font-size: 25px;
-  }
+}
+
+.heading_tag{
+    background-color: antiquewhite;
+    color: red;
+    font-size: 15px;
+    border-radius: 20px;
+}  
+
+.result{
+    background-color: palevioletred;
+    font-size: 20px;
+}
